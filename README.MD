@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/mockup ebook2.png"
+    src="./assets/mockup ebook3.png"
     width="400"  
 />
 </p>
